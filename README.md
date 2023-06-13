@@ -1,2 +1,3 @@
-# rdpconfig
-rdpconfig
+# 说明
+
+放到windows 用户桌面，以管理员权限运行
